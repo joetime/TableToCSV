@@ -3,7 +3,7 @@ TableToCSV
 
 Script to convert a table into a CSV file on the client side via javascript in a way that is Sofa King simple for developers and users.
 
-My philosophy is that there's no need for a trip the server with separate code to handle this... the data is already right there in front of the user! It just needs to be formatted and served in a nice package.
+IMO there's no need for a trip the server with separate code to handle this... the data is already right there in front of the user! It just needs to be formatted and served in a nice package.
 
 GOALS:
 
