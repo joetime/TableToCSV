@@ -1,3 +1,6 @@
+/* Base code from: http://jsfiddle.net/terryyounghk/KPEGU/
+*/
+
 function exportTableToCSV($table, filename) {
 
             var $rows = $table.find('tr:has(td)'),
