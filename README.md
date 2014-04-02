@@ -15,3 +15,6 @@ GOALS:
 
 *Current script relies on jQuery, but it should be easy to get rid of that.
 **IE is a no-go at the moment.
+
+
+The base code I started with came from: http://jsfiddle.net/terryyounghk/KPEGU/
